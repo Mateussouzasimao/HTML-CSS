@@ -1,6 +1,6 @@
 <h2 align="center">Olá Pessoal!</h2>
 
-Este projeto foi criado simultaneamente aos estudos do curso de HTML e CSS da plataforma Alura. Abaixo irei listar o conteúdo aprendido neste curso.
+Este projeto foi criado simultaneamente aos estudos do curso de HTML e CSS da plataforma Alura. Abaixo irei listar o conteúdo estudado neste curso.
 
 <h2 align="center">Barbearia Alura</h2>
 
